@@ -1,8 +1,10 @@
 <div align="center">
   
-  ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenKim-com&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AidenKim-com&theme=dracula&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)<br/>
+  ![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenKim-com&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)<br/><hr>
   <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenKim-com&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenKim-com&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
 - 👋 Hi, I’m Aiden
